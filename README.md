@@ -34,11 +34,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+A few issues arose with minor bugs, but were resolved by looking through the stack trace. I mostly struggled with typing as fast and staying on the same page as the video tutorial. Submitting everything for the first time also took a considerable sum of time. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2020 erinwu25
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
