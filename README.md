@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-A few issues arose with minor bugs, but were resolved by looking through the stack trace. I mostly struggled with typing as fast and staying on the same page as the video tutorial. Submitting everything for the first time also took a considerable sum of time. 
+A few issues arose with minor bugs, but were resolved by looking through the stack trace. I mostly struggled with typing as fast and staying on the same page as the video tutorial. Submitting everything for the first time also took a considerable sum of time. It also took me awhile to get used to using a Mac.
 
 ## License
 
